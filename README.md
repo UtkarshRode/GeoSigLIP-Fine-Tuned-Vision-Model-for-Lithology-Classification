@@ -238,54 +238,33 @@ Confidence + Top-3
 
 ---
 
-## 🎥 Live Demo
+## 🎥 Demo
 
-**Live public deployment:** `Coming soon`
+> **Live public deployment:** Not currently hosted.
 
-The application has been tested end-to-end locally.
-
-| Component | Local URL |
-|:--|:--|
-| React frontend | `http://localhost:5173` |
-| FastAPI API | `http://127.0.0.1:8000` |
-| Swagger docs | `http://127.0.0.1:8000/docs` |
-
-> A public live-demo link will be added after production deployment.
-
-### Example inference
-
-```text
-Input: geological rock image
-
-Prediction:
-Granite
-
-Confidence:
-99.88%
-
-Top predictions:
-1. Granite
-2. Marble
-3. Basalt
-```
+The complete application has been tested locally end-to-end using the React frontend and FastAPI inference API.
 
 ---
 
-## 🖼️ UI Preview
+## 🖼️ Application Preview
 
-After adding a screenshot to the repository, use:
+The frontend provides an interactive upload experience with image preview, predicted lithology, confidence, and top-3 alternatives.
 
-```markdown
 ![GeoSigLIP application preview](docs/images/app-preview.png)
-```
 
-Recommended structure:
+---
 
-```text
-docs/
-└── images/
-    └── app-preview.png
-```
+## 🔌 API Demo
+
+The FastAPI backend exposes a dedicated `/predict` endpoint for image-based inference.
+
+### API endpoint
+
+![GeoSigLIP API endpoint](docs/images/api-endpoint.png)
+
+### Prediction response
+
+![GeoSigLIP API result](docs/images/api-result.png)
 
 ---
 
@@ -321,6 +300,12 @@ GeoSigLIP/
 │   ├── 05_robustness_analysis.ipynb
 │   └── 06_deployment.ipynb
 │
+├── docs/
+│   └── images/
+│       ├── app-preview.png
+│       ├── api-endpoint.png
+│       └── api-result.png
+│
 ├── .gitignore
 └── README.md
 ```
@@ -344,6 +329,8 @@ GeoSigLIP/
 ## 🚀 Quick Start
 
 ### Backend
+
+Create a virtual environment:
 
 ```bash
 python -m venv .venv
@@ -466,9 +453,9 @@ The trained model is separated from the experimentation notebooks and exposed th
 - [x] Robustness analysis
 - [x] FastAPI inference
 - [x] React application
+- [x] GitHub repository
 - [ ] Add public live demo
 - [ ] Production deployment
-- [ ] Add demo GIF / final screenshots
 
 ---
 
