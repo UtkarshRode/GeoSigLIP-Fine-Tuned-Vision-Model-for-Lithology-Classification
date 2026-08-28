@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Python/model artifacts
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Local model extraction
+model/best_model/
+
+# Local results / generated files
+results/
+outputs/
+artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+
+# Dataset files
+kaggle_dataset/
+kaggle_dataset.zip
+data/raw/DCID.zip
+data/raw/DCID/

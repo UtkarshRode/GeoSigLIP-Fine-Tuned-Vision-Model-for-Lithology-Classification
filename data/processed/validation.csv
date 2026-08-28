@@ -1,0 +1,1051 @@
+image_path,label
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2843.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_824.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2248.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1114.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2763.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1309.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2578.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3223.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1474.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3925.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2266.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2085.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_283.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_922.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1202.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2737.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2331.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2282.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3068.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_201.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_127.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_940.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2221.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1183.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_129.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2088.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_20.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1807.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1098.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1564.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3657.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1514.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1625.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2256.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_950.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_703.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_138.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2653.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2829.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_953.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_389.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2642.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2215.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_397.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3656.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2856.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2931.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_514.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1608.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3840.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1009.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3475.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3904.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2209.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3327.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3060.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1817.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2612.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1874.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_17.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2389.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1225.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3495.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_662.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_440.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2055.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_130.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1888.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3710.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3932.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1099.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1408.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2053.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_104.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3469.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_373.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3562.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_463.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1708.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2375.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1588.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2936.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3095.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_106.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_43.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3304.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1214.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2578.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2295.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2862.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2385.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2693.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1378.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1840.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3335.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2499.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1318.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_658.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1318.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1568.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3938.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1795.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2906.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2690.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3554.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3171.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3001.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_871.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1511.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3826.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1978.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_538.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3245.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2071.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_945.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3921.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2636.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3257.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2293.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_285.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1286.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2245.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2531.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1052.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1391.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_36.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1897.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_855.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_745.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2333.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3859.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1117.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_838.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1177.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_19.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3856.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1096.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_266.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3497.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_536.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3081.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_595.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1487.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1462.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1853.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3821.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2986.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1240.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1686.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3314.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3242.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2978.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3797.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_335.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2773.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2731.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1525.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1514.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3246.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3530.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_618.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3659.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3388.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3407.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1485.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2219.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3187.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1163.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2396.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3869.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2791.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3934.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3593.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1679.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2752.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3832.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_900.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3234.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1974.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3961.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3324.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_443.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1858.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3145.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2020.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2588.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2102.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3354.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2980.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3464.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1935.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1516.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_892.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3113.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_907.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2458.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3912.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3168.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_956.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2981.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3868.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1432.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2355.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_246.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3527.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2659.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2460.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_63.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3399.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3243.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1086.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_255.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_720.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2232.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3238.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2613.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1611.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_320.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3369.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1911.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2807.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3672.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2658.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3544.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3717.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1847.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2108.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3117.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3772.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2871.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2862.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1974.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_796.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_18.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_564.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_607.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_950.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1561.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2323.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_763.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2516.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2998.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_315.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3997.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_995.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2087.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3586.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1350.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_642.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2015.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_266.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3669.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_59.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2353.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1407.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3383.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3153.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2202.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3690.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2605.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2548.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1377.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1251.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1357.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2213.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2988.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3689.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_129.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2820.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1707.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1247.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2353.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_453.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1804.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3394.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_684.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3777.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3390.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_866.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1900.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1079.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_224.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3833.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3349.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3899.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3770.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1961.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1336.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3009.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3027.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1449.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3279.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3598.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1879.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1374.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3879.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3470.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3949.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3345.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3841.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3981.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_285.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_971.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2632.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1269.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2476.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_127.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3211.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3881.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_972.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_656.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2128.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3447.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1251.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3363.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3294.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1101.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3393.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_451.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3250.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1549.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_595.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1569.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_138.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3153.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1317.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3810.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1891.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2725.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_53.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2811.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1290.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2161.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_735.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3811.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2989.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2349.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_347.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_851.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2277.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1220.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_968.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3849.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3747.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2356.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2660.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_778.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2442.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1228.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_862.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1031.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2634.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2797.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1204.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3511.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_853.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_157.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1433.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2671.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2711.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2421.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2661.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_456.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_848.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2479.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2689.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2141.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3744.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1112.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2705.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2352.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2145.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_376.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_525.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_386.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3211.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1363.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3119.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_142.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_849.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3311.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3395.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_241.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3623.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_575.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_257.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_292.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2368.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1228.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3745.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1143.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1439.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_904.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3430.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3067.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3417.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3608.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1008.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3816.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1523.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1307.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2352.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1188.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_41.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_686.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_627.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3353.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2328.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_614.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2209.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_660.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3837.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2388.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2476.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3978.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3980.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3493.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_897.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1028.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_428.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1309.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_166.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2985.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3042.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2090.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2990.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1913.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3565.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2920.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2917.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3045.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3038.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1840.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2840.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2955.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_782.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2816.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_972.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3419.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2844.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_958.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3385.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3777.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_116.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2654.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2702.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2505.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3099.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1250.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_240.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2131.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3440.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1041.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3729.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1857.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2193.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3445.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_135.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3470.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2502.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_893.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_354.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_186.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2825.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2226.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_67.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2784.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_249.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3633.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1662.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_577.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1131.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1694.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2912.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3376.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2806.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_393.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3120.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2335.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_199.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_887.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2630.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3930.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2828.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2944.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2168.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3181.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2641.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_510.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1135.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2088.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_262.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3188.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1756.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2903.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_258.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2926.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3310.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1762.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1459.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_870.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_576.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_66.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3395.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_451.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1213.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1097.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1443.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3437.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2962.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_753.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2512.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2523.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3816.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3435.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2975.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1364.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2000.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1857.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_308.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1400.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2900.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3913.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2254.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2434.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3537.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1899.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1777.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3929.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1158.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1555.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2157.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3879.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2129.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3528.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3415.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_894.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_927.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3833.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3032.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3952.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_752.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3507.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_197.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1589.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3127.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_497.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3963.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1380.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3499.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2237.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3133.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3847.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1684.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3860.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2440.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1892.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2545.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1634.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1439.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1355.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3130.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3109.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1353.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3276.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1855.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3058.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1380.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2994.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1989.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2094.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3675.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2383.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_205.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2333.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2497.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3887.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1562.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1596.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2377.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1854.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1491.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1657.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1349.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_866.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3585.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3429.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_869.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1508.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_641.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2833.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1755.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2757.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3619.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2238.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_708.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_106.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1928.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3268.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1919.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1883.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_715.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1504.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3967.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3757.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2026.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3722.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_666.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_248.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2356.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_698.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2532.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3586.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3024.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1246.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3038.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2881.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3142.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1442.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1334.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_748.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3786.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2458.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2614.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1512.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3772.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2228.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_528.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1789.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2294.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3091.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_150.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3283.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3485.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3997.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1714.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2592.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2531.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3505.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_644.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2613.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2738.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1987.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1302.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2335.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3049.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1341.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2531.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3563.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_975.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_948.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1951.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2373.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_568.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3468.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1864.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1480.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1611.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3088.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2019.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3037.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1881.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2089.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_237.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2880.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2789.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_486.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1388.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2275.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1330.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_46.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1925.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2025.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3944.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1611.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3974.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3328.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2471.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2458.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1576.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3829.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2394.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2581.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1312.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_577.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1141.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_724.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2957.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2557.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2057.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_369.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3408.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3543.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_537.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2464.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2878.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_399.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2734.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2173.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3525.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2343.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_403.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1471.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_724.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_635.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2072.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2627.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2682.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3026.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3529.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1369.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1605.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_194.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3038.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1587.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2613.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_361.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2968.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_571.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1498.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2234.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1316.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1508.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3905.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3238.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2585.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3665.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_135.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3168.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_260.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2920.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_311.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1358.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1359.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1466.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2288.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2570.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1964.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3913.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1771.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_578.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1130.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3352.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_992.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1279.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1272.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2207.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3378.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_819.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3175.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2770.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2154.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3309.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_129.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2364.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2681.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_512.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1044.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_464.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2120.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3388.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2353.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3069.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3893.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3187.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_705.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3963.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3670.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3370.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_863.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1463.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_986.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2842.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1965.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3971.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3964.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3709.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2793.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_888.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2497.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1328.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3487.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3031.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2397.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3125.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3446.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3288.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2788.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2800.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3517.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_82.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3887.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3106.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1536.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1502.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2009.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_307.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1381.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3867.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_191.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2174.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2304.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1976.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2128.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3240.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1545.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2382.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_43.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2045.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3885.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1204.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3577.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_846.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2754.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3658.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1830.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1939.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1183.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_390.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1746.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3697.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2745.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3955.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1273.jpg,Marble
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2676.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1146.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2379.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3735.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3094.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_184.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2161.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2161.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_783.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3610.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3749.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1719.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_24.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2599.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2992.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2005.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_330.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3533.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2532.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_434.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2219.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_300.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3461.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1211.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1185.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_208.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_729.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3592.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2101.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_272.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_369.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3151.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1301.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3908.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1563.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_548.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3587.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1018.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3886.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_726.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2086.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_335.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3654.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2343.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_127.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2147.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3908.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2298.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2100.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1481.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3236.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2910.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_613.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_253.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_378.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1881.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_504.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3754.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_174.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3648.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2944.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2907.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3202.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3279.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1929.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_12.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2153.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2166.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2974.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1783.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_246.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_898.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3727.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_492.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2298.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1762.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1369.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2748.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1797.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1743.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3662.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1739.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2754.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_712.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1448.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_1707.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_231.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_319.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_965.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1276.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3163.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3188.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1342.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1943.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2220.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_253.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1007.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2431.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3427.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3244.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3424.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2197.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3990.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_3660.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_629.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_107.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_316.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_582.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2096.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1252.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_911.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3763.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1679.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_761.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_262.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3998.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1161.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_481.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_575.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2744.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1188.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_952.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3466.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1035.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2447.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3774.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_413.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2131.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_136.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1310.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2016.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_574.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_396.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_708.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1601.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1494.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2714.jpg,Granite
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2756.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_321.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3018.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1341.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1240.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2158.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_909.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2266.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2963.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3594.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1204.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_178.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3543.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3688.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2138.jpg,Marble
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_3631.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3219.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3767.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_687.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1571.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_976.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1296.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3754.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3248.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2453.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3657.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_357.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_831.jpg,Granite
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_130.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_495.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3700.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_544.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_500.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2768.jpg,Granite
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1452.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2401.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_675.jpg,Marble
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2600.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2504.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2111.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_1365.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_279.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_1242.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_277.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1922.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_2655.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_202.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2633.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1457.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_2762.jpg,Granite
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1665.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2127.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3079.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2428.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2438.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2604.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2002.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_731.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3625.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2253.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_1617.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\4.Mudstone\4.Mudstone_1644.jpg,Mudstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3906.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_3694.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1270.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_1375.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_604.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_677.jpg,Granite
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3871.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3221.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1640.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2326.jpg,Marble
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_520.jpg,Marble
+data\raw\DCID\DCID-512-7\train\2.Light sandstone\2.Light sandstone_2046.jpg,Light sandstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_3544.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3964.jpg,Marble
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_3526.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_554.jpg,Granite
+data\raw\DCID\DCID-512-7\train\5.Granite\5.Granite_3955.jpg,Granite
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_187.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\6.Basalt\6.Basalt_2222.jpg,Basalt
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_1165.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_2952.jpg,Marble
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2742.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\1.Red sandstone\1.Red sandstone_2987.jpg,Red sandstone
+data\raw\DCID\DCID-512-7\train\3.Gray siltstone\3.Gray siltstone_2988.jpg,Gray siltstone
+data\raw\DCID\DCID-512-7\train\7.Marble\7.Marble_3797.jpg,Marble
