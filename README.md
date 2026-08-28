@@ -30,65 +30,102 @@
 
 ---
 
-## 🧠 What is GeoSigLIP?
+## 🧠 Overview
 
-**GeoSigLIP** is an end-to-end geological image classification project that adapts Google's pretrained **SigLIP** vision-language model to domain-specific lithology recognition using **parameter-efficient LoRA fine-tuning**.
+**GeoSigLIP** is an end-to-end geological image classification system that adapts Google's pretrained **SigLIP** vision-language model to domain-specific lithology recognition using **parameter-efficient LoRA fine-tuning**.
 
-Instead of training a vision model from scratch, the project starts from a pretrained multimodal representation and adapts selected transformer projections for geological imagery. The resulting model is evaluated against a genuine zero-shot SigLIP baseline and then exposed through a **FastAPI inference service** and a **React web application**.
+The project combines model adaptation, held-out evaluation, robustness analysis, and a usable inference application built with **FastAPI** and **React**.
 
-### The project in one line
-
-> **Pretrained SigLIP → LoRA domain adaptation → rigorous evaluation → deployable inference application**
+> **Core idea:** start from a strong pretrained vision-language model, adapt selected parameters to geological imagery, rigorously evaluate the result, and expose the trained model through an interactive application.
 
 ---
 
-## 🎯 Project Highlights
+## ✨ Highlights
 
-| Area | Implementation |
-|:--|:--|
-| **Base model** | `google/siglip-base-patch16-224` |
-| **Fine-tuning** | LoRA / Parameter-Efficient Fine-Tuning |
-| **LoRA targets** | `q_proj`, `v_proj` |
-| **LoRA rank** | 16 |
-| **LoRA alpha** | 32 |
-| **LoRA dropout** | 0.05 |
-| **Task** | 7-class lithology classification |
-| **Training images** | 2,450 |
-| **Validation images** | 1,050 |
-| **Held-out test images** | 1,750 |
-| **Backend** | FastAPI + PyTorch |
-| **Frontend** | React + Vite |
-| **Experiment platform** | Kaggle |
+- 🧠 Fine-tuned `google/siglip-base-patch16-224`
+- ⚡ Parameter-efficient **LoRA** fine-tuning
+- 🪨 7-class geological lithology classification
+- 📊 Dedicated train, validation, and held-out test sets
+- 🧪 Zero-shot SigLIP baseline
+- 📈 Accuracy, precision, recall, Macro F1, and confusion-matrix analysis
+- 🔎 SHA-256 duplicate and visual-similarity checks across splits
+- 🚀 FastAPI inference API
+- 🎨 React + Vite frontend
+- 📌 Top-3 predictions with confidence scores
 
 ---
 
-## 📊 Results
+## 🧭 End-to-End Pipeline
 
-The final model was evaluated on an **untouched 1,750-image test set**.
+```text
+                    DCID-7 Geological Images
+                              │
+                              ▼
+                    Exploratory Data Analysis
+                              │
+                              ▼
+                       Zero-Shot SigLIP
+                              │
+                        Baseline Study
+                              │
+                              ▼
+                  LoRA Fine-Tuning of SigLIP
+                              │
+                              ▼
+                    Validation / Checkpoint
+                              │
+                              ▼
+                   Held-Out Test Evaluation
+                              │
+                 ┌────────────┴────────────┐
+                 │                         │
+                 ▼                         ▼
+          Zero-Shot SigLIP          SigLIP + LoRA
+                 │                         │
+                 └────────────┬────────────┘
+                              ▼
+                    Robustness Analysis
+                              │
+                              ▼
+                      Trained Checkpoint
+                              │
+                              ▼
+                      FastAPI Backend
+                              │
+                              ▼
+                       React Frontend
+                              │
+                              ▼
+                Lithology + Confidence + Top-3
+```
 
-### Model comparison
+---
+
+## 📈 Final Results
+
+The final model was evaluated on a **held-out test set of 1,750 images**.
 
 | Model | Accuracy | Macro F1 |
 |:--|--:|--:|
 | SigLIP Zero-Shot | 55.257% | 47.762% |
 | **SigLIP + LoRA** | **99.886%** | **99.886%** |
 
-### Improvement from domain adaptation
+### Improvement
 
 | Metric | Gain |
 |:--|--:|
 | Accuracy | **+44.629 percentage points** |
 | Macro F1 | **+52.124 percentage points** |
 
-The zero-shot baseline establishes how the pretrained model performs before task-specific adaptation, while the LoRA model measures the benefit of geological domain fine-tuning.
+The zero-shot baseline measures pretrained SigLIP performance before task-specific adaptation. The fine-tuned model uses the learned classification head together with LoRA-adapted transformer projections.
 
-> **Evaluation note:** the very strong fine-tuned result was followed by a dedicated robustness and split-integrity analysis instead of being reported in isolation.
+> **Evaluation note:** the unusually strong fine-tuned result was followed by explicit data-integrity and similarity checks rather than being reported in isolation.
 
 ---
 
 ## 🧪 Robustness & Data Integrity
 
-The project includes explicit checks for possible split leakage and duplicate imagery.
+The project includes dedicated checks for possible split leakage and duplicate imagery.
 
 ### Split overlap
 
@@ -98,9 +135,9 @@ Train ∩ Test       = 0
 Validation ∩ Test  = 0
 ```
 
-### Exact duplicates
+### Exact duplicate detection
 
-SHA-256 analysis found:
+SHA-256 hashing found:
 
 ```text
 Cross-split exact duplicates = 0
@@ -117,15 +154,13 @@ Train → Test       = 4
 Validation → Test  = 0
 ```
 
-The four high-similarity train/test pairs were manually inspected as part of the robustness workflow.
+The four high-similarity train/test pairs were inspected as part of the robustness workflow.
 
 ---
 
 ## 🪨 Lithology Classes
 
-GeoSigLIP predicts seven lithology classes:
-
-| ID | Lithology |
+| ID | Class |
 |---:|:--|
 | 1 | Red sandstone |
 | 2 | Light sandstone |
@@ -137,80 +172,43 @@ GeoSigLIP predicts seven lithology classes:
 
 ---
 
-## 🔄 End-to-End ML Pipeline
+## 🧠 Model Configuration
+
+### Base model
 
 ```text
-                         Geological Images
-                                │
-                                ▼
-                     Exploratory Data Analysis
-                                │
-                                ▼
-                       SigLIP Zero-Shot
-                         Baseline Study
-                                │
-                                ▼
-                     LoRA Domain Fine-Tuning
-                                │
-                                ▼
-                    Validation / Best Checkpoint
-                                │
-                                ▼
-                    Held-Out Test Evaluation
-                                │
-                 ┌──────────────┴──────────────┐
-                 │                             │
-                 ▼                             ▼
-          Zero-Shot SigLIP              SigLIP + LoRA
-                 │                             │
-                 └──────────────┬──────────────┘
-                                ▼
-                     Robustness / Leakage Checks
-                                │
-                                ▼
-                         Trained Checkpoint
-                                │
-                                ▼
-                         FastAPI Inference
-                                │
-                                ▼
-                          React Frontend
-                                │
-                                ▼
-                 Prediction + Confidence + Top-3
+google/siglip-base-patch16-224
 ```
+
+### LoRA configuration
+
+```text
+Rank:            16
+Alpha:           32
+Dropout:         0.05
+Target modules:  q_proj, v_proj
+```
+
+LoRA adapters provide task-specific updates to selected transformer projections while keeping the pretrained backbone largely frozen.
 
 ---
 
-## 🧩 Why LoRA?
+## 📦 Dataset
 
-The project uses **Low-Rank Adaptation (LoRA)** instead of full-model fine-tuning.
+| Split | Images |
+|:--|--:|
+| Train | 2,450 |
+| Validation | 1,050 |
+| Test | 1,750 |
+| **Total** | **5,250** |
 
-LoRA introduces trainable low-rank updates into selected linear projections while keeping the original pretrained weights frozen.
-
-For GeoSigLIP, adapters were applied to:
-
-```text
-vision transformer
-├── self_attn.q_proj
-└── self_attn.v_proj
-```
-
-Configuration:
-
-```text
-Rank     = 16
-Alpha    = 32
-Dropout  = 0.05
-```
-
-This provides a parameter-efficient path to domain adaptation while preserving the pretrained representation.
+The test set was reserved for final evaluation and was not used for training or model selection.
 
 ---
 
 ## 🖥️ Application
 
-The trained model is wrapped in a full-stack inference application.
+GeoSigLIP is exposed through a full-stack inference application.
 
 ### User flow
 
@@ -230,17 +228,17 @@ Prediction
 Confidence + Top-3 alternatives
 ```
 
-### Application screenshot
+### Application preview
 
 <p align="center">
-  <img src="docs/images/app-preview.png" alt="GeoSigLIP application preview" width="900">
+  <img src="docs/images/app-preview.png" alt="GeoSigLIP application preview" width="1000">
 </p>
 
 ---
 
 ## 🔌 API
 
-The backend exposes a simple image-classification endpoint:
+The backend exposes:
 
 ```http
 POST /predict
@@ -256,16 +254,16 @@ The endpoint accepts an image and returns:
 ### API endpoint
 
 <p align="center">
-  <img src="docs/images/api-endpoint.png" alt="GeoSigLIP FastAPI endpoint" width="900">
+  <img src="docs/images/api-endpoint.png" alt="GeoSigLIP FastAPI endpoint" width="1000">
 </p>
 
-### Example response
+### Prediction response
 
 <p align="center">
-  <img src="docs/images/api-result.png" alt="GeoSigLIP FastAPI response" width="900">
+  <img src="docs/images/api-result.png" alt="GeoSigLIP FastAPI prediction response" width="1000">
 </p>
 
-Example response shape:
+Example response:
 
 ```json
 {
@@ -285,7 +283,7 @@ Example response shape:
 
 ---
 
-## 📁 Repository Structure
+## 🗂️ Repository Structure
 
 ```text
 GeoSigLIP/
@@ -329,9 +327,7 @@ GeoSigLIP/
 
 ---
 
-## 🧪 Experiment Notebooks
-
-The notebooks preserve the complete experimentation workflow:
+## 🧪 Experiment Workflow
 
 | Notebook | Purpose |
 |:--|:--|
@@ -340,16 +336,16 @@ The notebooks preserve the complete experimentation workflow:
 | `02_baseline.ipynb` | Baseline / zero-shot experiments |
 | `03_finetuning.ipynb` | LoRA fine-tuning |
 | `04_final_evaluation.ipynb` | Final held-out evaluation |
-| `05_robustness_analysis.ipynb` | Duplicate / leakage analysis |
+| `05_robustness_analysis.ipynb` | Duplicate and leakage analysis |
 | `06_deployment.ipynb` | Model inference and deployment workflow |
 
-The Kaggle notebooks were used for experimentation and compute, while their notebook copies are included here for reproducibility and inspection.
+The experiments were executed on Kaggle, while notebook copies are preserved in this repository for inspection and reproducibility.
 
 ---
 
 ## ⚙️ Local Setup
 
-### 1. Clone the repository
+### 1. Clone
 
 ```bash
 git clone https://github.com/UtkarshRode/GeoSigLIP-Fine-Tuned-Vision-Model-for-Lithology-Classification.git
@@ -358,7 +354,7 @@ cd GeoSigLIP-Fine-Tuned-Vision-Model-for-Lithology-Classification
 
 ### 2. Backend
 
-Create a Python virtual environment:
+Create a virtual environment:
 
 ```bash
 python -m venv .venv
@@ -382,13 +378,13 @@ Place the trained checkpoint at:
 model/best_model.pt
 ```
 
-Start the API:
+Start FastAPI:
 
 ```bash
 uvicorn backend.main:app --reload
 ```
 
-Open Swagger:
+Open the API documentation:
 
 ```text
 http://127.0.0.1:8000/docs
@@ -415,24 +411,15 @@ http://localhost:5173
 
 ## 🔐 Model Weights
 
-The trained `best_model.pt` checkpoint is **not stored in Git history** because of its size.
-
-The source repository intentionally excludes:
-
-```text
-*.pt
-*.pth
-*.ckpt
-*.safetensors
-```
-
-The trained checkpoint is maintained separately.
+The trained checkpoint is intentionally **not committed to Git history** because of its size.
 
 Expected local path:
 
 ```text
 model/best_model.pt
 ```
+
+Model weights are maintained separately from the source repository.
 
 ---
 
@@ -467,33 +454,27 @@ model/best_model.pt
 
 ## 💡 Engineering Decisions
 
-### Parameter-efficient fine-tuning
-
+### Parameter-efficient adaptation
 LoRA was selected to adapt a pretrained vision-language model without updating the full backbone.
 
 ### Meaningful baseline
-
-The project reports a genuine zero-shot SigLIP baseline rather than presenting the fine-tuned model alone.
+The project compares the domain-adapted model against a genuine zero-shot SigLIP baseline.
 
 ### Held-out evaluation
+A separate 1,750-image test set was reserved for final evaluation.
 
-A separate 1,750-image test set is reserved for final evaluation.
+### Robustness analysis
+The dataset was checked for split overlap, exact duplicates, conflicting labels, and high visual similarity.
 
-### Data-integrity analysis
+### API-first inference
+Model inference is isolated behind FastAPI so the frontend remains independent of model implementation details.
 
-The project checks path overlap, SHA-256 duplicates, conflicting labels, and highly similar images across dataset splits.
-
-### Model serving
-
-Inference is isolated behind a FastAPI endpoint so the frontend remains independent of the model implementation.
-
-### Reusable frontend
-
-The React client communicates with the backend over HTTP and renders the model output in a user-facing interface.
+### Full-stack delivery
+A React client consumes the prediction API and presents results in an interactive interface.
 
 ---
 
-## 🚧 Current Deployment Status
+## 🚧 Deployment Status
 
 > **Public live deployment is not currently hosted.**
 
@@ -509,7 +490,7 @@ GeoSigLIP + LoRA
 Prediction
 ```
 
-The repository includes the application and API screenshots above as evidence of the working local system.
+Screenshots of the working frontend and API flow are included above.
 
 ---
 
@@ -525,16 +506,16 @@ The repository includes the application and API screenshots above as evidence of
 - [x] FastAPI inference
 - [x] React frontend
 - [x] GitHub repository
-- [x] Documentation and screenshots
+- [x] README and visual documentation
 - [ ] Public deployment
 
 ---
 
 ## ⚠️ Limitations
 
-GeoSigLIP is trained for the seven lithology classes represented in the project dataset.
+GeoSigLIP predicts only the seven lithology classes represented in the project dataset.
 
-Performance on images outside the dataset distribution may differ from the reported benchmark. The model should therefore be treated as an AI-assisted classification system rather than a replacement for professional geological interpretation.
+Performance on images outside the training distribution may differ from the reported benchmark. The model should therefore be treated as an AI-assisted classification system rather than a replacement for professional geological interpretation.
 
 ---
 
@@ -547,8 +528,7 @@ IIT Kharagpur
 
 <div align="center">
 
-### GeoSigLIP
-
-**Fine-tuned vision intelligence for geological lithology classification.**
+**GeoSigLIP**  
+*Fine-tuned vision intelligence for geological lithology classification.*
 
 </div>
